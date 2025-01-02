@@ -1,0 +1,38 @@
+.rbc-calendar {
+    @apply bg-white shadow-lg rounded-lg p-1;
+  }
+  
+  .rbc-header {
+    @apply bg-[#6696F5] text-white h-6;
+  }
+  
+  .rbc-day-slot {
+    @apply p-2 border border-gray-300;
+  }
+  
+  .rbc-time-slot {
+    @apply p-2 border border-gray-200;
+  }
+  
+  .rbc-day-bg {
+    @apply bg-gray-50;
+  }
+  
+  .rbc-current-time-indicator {
+    @apply bg-red-500;
+  }
+  .rbc-week-header{
+    @apply h-5
+  } 
+  
+  .rbc-event{
+    @apply bg-[#e8f0ff]
+  } 
+
+  
+  
+
+  
+
+
+   
